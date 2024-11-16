@@ -4,7 +4,7 @@
             "outputFile": "com.example.my_calculator.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/ashley/StudioProjects/my_calculator/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/ashley/Simple_Calculator/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
